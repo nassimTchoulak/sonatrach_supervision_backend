@@ -1,0 +1,22 @@
+{
+  "name": "back_end",
+  "version": "1.0.0",
+  "description": "esifind",
+  "main": "cmd_app.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "js-sha256": "^0.9.0",
+    "mysql2": "^1.7.0",
+    "pem": "^1.14.1",
+    "querystring": "^0.2.0",
+    "url": "^0.11.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node cmd_app.js"
+  },
+  "author": "tchoulak nassim 1cs",
+  "license": "ISC"
+}
